@@ -1,0 +1,115 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "material-icon-theme",
+    "cSpell.userWords": [
+        "Smolkin",
+        "trustless"
+    ],
+    "cSpell.enabledLanguageIds": [
+        "bibtex",
+        "c",
+        "cpp",
+        "csharp",
+        "go",
+        "handlebars",
+        "javascriptreact",
+        "json",
+        "latex",
+        "markdown",
+        "php",
+        "plaintext",
+        "python",
+        "restructuredtext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "sync.gist": "f41f84cc98e95b3c999d6b3238f8e1c4",
+    "sync.lastUpload": "2018-01-15T00:33:37.907Z",
+    "sync.autoDownload": false,
+    "sync.auutUpload": false,
+    "sync.lastDownload": "2018-01-03T20:30:49.795Z",
+    "sync.forceDownload": false,
+    "sync.anonymousGist": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "workbench.panel.location": "bottom",
+    "editor.tabSize": 2,
+    "terminal.external.linuxExec": "urxvt",
+    "vim.easymotion": true,
+    "vim.leader": ",",
+    "window.menuBarVisibility": "toggle",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Cobalt2",
+    "vim.easymotionMarkerBackgroundColor": "black",
+    "vim.easymotionMarkerYOffset": 7,
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "before":["leader", "n", "h"],
+            "after":[],
+            "commands": [
+                {
+                    "command": ":nohl",
+                    "args": []
+                }
+            ]
+        },
+        {
+            "before":["leader", "a"],
+            "after":[],
+            "commands": [
+                {
+                    "command": "wwm.aligncode",
+                    "args": []
+                }
+            ]
+        },
+    ],
+    "editor.renderLineHighlight": "none",
+    "vim.useSystemClipboard": true,
+    "clipring.maxRingItems": 20,
+    "vim.statusBarColorControl": true,
+    "editor.fontFamily": "'IBM Plex Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 14.5,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "vim.hlsearch": true,
+    "vim.statusBarColors": {
+        "normal": "#005f5f",
+        "insert": "#5f0000",
+        "visual": "#5f00af",
+        "visualline": "#005f87",
+        "visualblock": "#86592d",
+        "replace": "#000000"
+    },
+    "workbench.colorCustomizations": {
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "tab.inactiveBackground": "#000000",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "editorGutter.background": "#000000",
+        "editorLineNumber.foreground": "#b83f7b",
+        "editorCursor.foreground": "#007acc",
+        "editorCursor.background": "#000000",
+        "statusBar.background": "#005f5f",
+        "statusBar.noFolderBackground": "#005f5f",
+        "statusBar.debuggingBackground": "#005f5f"
+    },
+    "vim.searchHighlightColor": "rgba(255, 0, 0, 0.7)",
+    "vim.easymotionMarkerForegroundColorOneChar": "red",
+    "vim.easymotionMarkerForegroundColorTwoChar": "red",
+    "vim.easymotionMarkerFontWeight": "bold",
+    "vim.easymotionMarkerFontSize": "15",
+    "vim.mouseSelectionGoesIntoVisualMode": false,
+    "vim.cmdLineInitialColon": true,
+    "sync.autoUpload": false,
+    "editor.cursorBlinking": "solid",
+    "zenMode.hideStatusBar": false,
+    "cSpell.showStatus": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+}
